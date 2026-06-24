@@ -108,7 +108,8 @@ Bar Chart
 - Expand operations in high-performing Tier 3 locations.
 - Focus promotional campaigns on top-selling products.
 
-## Performed Data Cleaning and Data Analysis
+## Project Outcomes
+- Performed Data Cleaning and Data Analysis
 - Calculated Business KPIs
 - Created Interactive Visualizations
 - Generated Actionable Business Insights
