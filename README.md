@@ -48,7 +48,7 @@ The dataset contains information regarding:
 Analyze the impact of fat content on total sales.
 
 **Visualization:**
-Donut Chart
+Pie Chart
 
 ### 2. Total Sales by Item Type
 
@@ -88,7 +88,7 @@ Pie Chart
 Assess geographic distribution of sales.
 
 **Visualization:**
-Funnel Chart
+Bar Chart
 
 ## Key Insights
 
