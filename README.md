@@ -103,7 +103,13 @@ Bar Chart
 ### Customer Satisfaction
 - Average customer rating remained consistent across most product categories.
 
-### Business Recommendations
+## Business Recommendations
 - Increase inventory for high-demand categories.
 - Expand operations in high-performing Tier 3 locations.
 - Focus promotional campaigns on top-selling products.
+
+## Performed Data Cleaning and Data Analysis
+- Calculated Business KPIs
+- Created Interactive Visualizations
+- Generated Actionable Business Insights
+- Supported Data-Driven Decision Making
